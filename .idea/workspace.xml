@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43a8fa1f-6a43-41d8-86f1-708172e013ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TD3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iQXzmX8DwIY3Q2DfFqKW8yo3By" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex1.executor": "Run",
+    "Application.Ex1D.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.Ex2D.executor": "Debug",
+    "Application.Ex3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fmostefaoui/Dropbox/CEGEP/GG/AEC DAW/420-135-GG/TD/Corrigé/TD3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ex2">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coursjava.td3.Ex1" />
+      <module name="TD3" />
+      <option name="PROGRAM_PARAMETERS" value="most farida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coursjava.td3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coursjava.td3.Ex1D" />
+      <module name="TD3" />
+      <option name="PROGRAM_PARAMETERS" value="8 45 10 0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coursjava.td3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coursjava.td3.Ex2" />
+      <module name="TD3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coursjava.td3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coursjava.td3.Ex2D" />
+      <module name="TD3" />
+      <option name="PROGRAM_PARAMETERS" value="2000  2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coursjava.td3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coursjava.td3.Ex3" />
+      <module name="TD3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coursjava.td3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex2" />
+      <item itemvalue="Application.Ex2D" />
+      <item itemvalue="Application.Ex1D" />
+      <item itemvalue="Application.Ex1" />
+      <item itemvalue="Application.Ex3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1D" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a8fa1f-6a43-41d8-86f1-708172e013ca" name="Changes" comment="" />
+      <created>1719424042532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719424042532</updated>
+      <workItem from="1719424044218" duration="3914000" />
+      <workItem from="1719933538903" duration="318000" />
+      <workItem from="1719933941652" duration="3515000" />
+      <workItem from="1719952883848" duration="611000" />
+      <workItem from="1720185139964" duration="4702000" />
+      <workItem from="1755715792281" duration="1396000" />
+      <workItem from="1755828964104" duration="3603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
